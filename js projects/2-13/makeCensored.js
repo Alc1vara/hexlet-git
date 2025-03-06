@@ -1,0 +1,3 @@
+const makeCensored = (sentense, words = []) => {
+  
+}
